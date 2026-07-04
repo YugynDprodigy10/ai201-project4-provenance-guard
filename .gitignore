@@ -1,2 +1,23 @@
-
+# Environment
 .env
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Database (auto-created at runtime)
+provenance.db
+
+# pytest cache
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
